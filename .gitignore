@@ -1,0 +1,15 @@
+# Environments
+.env
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+Data
+data/budgetwise_synthetic_dirty.csv
+data/Clean_budgetwise_data.csv
