@@ -18,7 +18,7 @@ This project demonstrates a standard data ingestion and cleaning pipeline using 
 
 ## Dataset Information
 
-The raw dataset used in this project was sourced from Kaggle. It contains synthetic transaction data (`budgetwise_synthetic_dirty.csv`) mimicking a budget-tracking application.
+The raw dataset used in this project was sourced from [Kaggle](https://www.kaggle.com/datasets/mohammedarfathr/budgetwise-personal-finance-dataset). It contains synthetic transaction data (`budgetwise_synthetic_dirty.csv`) mimicking a budget-tracking application.
 
 **Key Features Include:**
 
